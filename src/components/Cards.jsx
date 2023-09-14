@@ -21,14 +21,14 @@ const Cards = () => {
                   <span className='final-rating'>
                     {data.finalRating}
                   </span>
-                  <span className='total-person'>({data.totalPeron})</span>
+                  <span className='total-person'>({data.totalPerson})</span>
                   <span className='country'>.{data.country}</span>
                 </div>
                 <div className="card-desc">
                   <p>{data.cardDesc}</p>
                 </div>
                 <div className="pricing">
-                  <span className='bold'>{data.Price}</span>
+                  <span className='bold'>{data.price}</span>
                   <span>/ person</span>
                 </div>
               </div>

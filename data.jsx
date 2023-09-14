@@ -7,26 +7,26 @@ const cardData = [
   {
     img: cardOne,
     finalRating: 5.0,
-    totalPeron: 6,
+    totalPerson: 6,
     country: "USA",
     cardDesc: "Life lessons with Katie Zaferes",
-    Price: "From $136"
+    price: "From $136"
   },
   {
     img: cardTwo,
     finalRating: 4.5,
-    totalPeron: 30,
+    totalPerson: 30,
     country: "CANADA",
     cardDesc: "Learn wedding photography",
-    Price: "From $125"
+    price: "From $125"
   },
   {
     img: cardThree,
     finalRating: 4.8,
-    totalPeron: 2,
+    totalPerson: 2,
     country: "UK",
     cardDesc: "Group Mountain Biking",
-    Price: "From $50"
+    price: "From $50"
   },
 ]
 export default cardData
